@@ -5,8 +5,7 @@
 //1)The programe request the user to enter his/her name.
 //2)Validate that the user input is not emptry and it's a string not numbers. 
 //3)Ask the user to run the program again Yes or Not.
-
-//Review By: 
+//Review By:
 
 string userChoice = "";
 string userName = "";
