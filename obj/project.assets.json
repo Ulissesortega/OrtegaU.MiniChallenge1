@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ulisesortega/Desktop/Data Validation - Play Again/1 - What's Your Name/1 - What's Your Name.csproj",
+      "projectUniqueName": "/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaU.MiniChallenge1/1 - What's Your Name.csproj",
       "projectName": "1 - What's Your Name",
-      "projectPath": "/Users/ulisesortega/Desktop/Data Validation - Play Again/1 - What's Your Name/1 - What's Your Name.csproj",
+      "projectPath": "/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaU.MiniChallenge1/1 - What's Your Name.csproj",
       "packagesPath": "/Users/ulisesortega/.nuget/packages/",
-      "outputPath": "/Users/ulisesortega/Desktop/Data Validation - Play Again/1 - What's Your Name/obj/",
+      "outputPath": "/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaU.MiniChallenge1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ulisesortega/.nuget/NuGet/NuGet.Config"
