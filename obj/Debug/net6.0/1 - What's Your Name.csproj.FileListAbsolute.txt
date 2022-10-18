@@ -1,0 +1,60 @@
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/1 - What's Your Name/bin/Debug/net6.0/1 - What's Your Name
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/1 - What's Your Name/bin/Debug/net6.0/1 - What's Your Name.deps.json
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/1 - What's Your Name/bin/Debug/net6.0/1 - What's Your Name.runtimeconfig.json
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/1 - What's Your Name/bin/Debug/net6.0/1 - What's Your Name.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/1 - What's Your Name/bin/Debug/net6.0/1 - What's Your Name.pdb
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/1 - What's Your Name/obj/Debug/net6.0/refint/1 - What's Your Name.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.pdb
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/1 - What's Your Name/obj/Debug/net6.0/ref/1 - What's Your Name.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/1 - What's Your Name/bin/Debug/net6.0/1 - What's Your Name
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/1 - What's Your Name/bin/Debug/net6.0/1 - What's Your Name.deps.json
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/1 - What's Your Name/bin/Debug/net6.0/1 - What's Your Name.runtimeconfig.json
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/1 - What's Your Name/bin/Debug/net6.0/1 - What's Your Name.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/1 - What's Your Name/bin/Debug/net6.0/1 - What's Your Name.pdb
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/1 - What's Your Name/obj/Debug/net6.0/refint/1 - What's Your Name.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.pdb
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/1 - What's Your Name/obj/Debug/net6.0/ref/1 - What's Your Name.dll
+/Users/ulisesortega/Desktop/Homework/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/Homework/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/Homework/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/Homework/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/Homework/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/Homework/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.dll
+/Users/ulisesortega/Desktop/Homework/1 - What's Your Name/obj/Debug/net6.0/refint/1 - What's Your Name.dll
+/Users/ulisesortega/Desktop/Homework/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.pdb
+/Users/ulisesortega/Desktop/Homework/1 - What's Your Name/bin/Debug/net6.0/1 - What's Your Name
+/Users/ulisesortega/Desktop/Homework/1 - What's Your Name/bin/Debug/net6.0/1 - What's Your Name.deps.json
+/Users/ulisesortega/Desktop/Homework/1 - What's Your Name/bin/Debug/net6.0/1 - What's Your Name.runtimeconfig.json
+/Users/ulisesortega/Desktop/Homework/1 - What's Your Name/bin/Debug/net6.0/1 - What's Your Name.dll
+/Users/ulisesortega/Desktop/Homework/1 - What's Your Name/bin/Debug/net6.0/1 - What's Your Name.pdb
+/Users/ulisesortega/Desktop/Homework/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/Homework/1 - What's Your Name/obj/Debug/net6.0/ref/1 - What's Your Name.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/1 - What's Your Name/bin/Debug/net6.0/1 - What's Your Name
+/Users/ulisesortega/Desktop/Data Validation - Play Again/1 - What's Your Name/bin/Debug/net6.0/1 - What's Your Name.deps.json
+/Users/ulisesortega/Desktop/Data Validation - Play Again/1 - What's Your Name/bin/Debug/net6.0/1 - What's Your Name.runtimeconfig.json
+/Users/ulisesortega/Desktop/Data Validation - Play Again/1 - What's Your Name/bin/Debug/net6.0/1 - What's Your Name.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/1 - What's Your Name/bin/Debug/net6.0/1 - What's Your Name.pdb
+/Users/ulisesortega/Desktop/Data Validation - Play Again/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/Data Validation - Play Again/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/Data Validation - Play Again/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/1 - What's Your Name/obj/Debug/net6.0/refint/1 - What's Your Name.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.pdb
+/Users/ulisesortega/Desktop/Data Validation - Play Again/1 - What's Your Name/obj/Debug/net6.0/1 - What's Your Name.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/1 - What's Your Name/obj/Debug/net6.0/ref/1 - What's Your Name.dll
