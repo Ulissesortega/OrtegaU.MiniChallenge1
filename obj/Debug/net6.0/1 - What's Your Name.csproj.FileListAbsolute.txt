@@ -73,3 +73,18 @@
 /Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaU.MiniChallenge1/obj/Debug/net6.0/1 - What's Your Name.pdb
 /Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaU.MiniChallenge1/obj/Debug/net6.0/1 - What's Your Name.genruntimeconfig.cache
 /Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaU.MiniChallenge1/obj/Debug/net6.0/ref/1 - What's Your Name.dll
+/Users/arelymartinez/Desktop/GitRepository/OrtegaUMiniChallenge1/bin/Debug/net6.0/1 - What's Your Name
+/Users/arelymartinez/Desktop/GitRepository/OrtegaUMiniChallenge1/bin/Debug/net6.0/1 - What's Your Name.deps.json
+/Users/arelymartinez/Desktop/GitRepository/OrtegaUMiniChallenge1/bin/Debug/net6.0/1 - What's Your Name.runtimeconfig.json
+/Users/arelymartinez/Desktop/GitRepository/OrtegaUMiniChallenge1/bin/Debug/net6.0/1 - What's Your Name.dll
+/Users/arelymartinez/Desktop/GitRepository/OrtegaUMiniChallenge1/bin/Debug/net6.0/1 - What's Your Name.pdb
+/Users/arelymartinez/Desktop/GitRepository/OrtegaUMiniChallenge1/obj/Debug/net6.0/1 - What's Your Name.csproj.AssemblyReference.cache
+/Users/arelymartinez/Desktop/GitRepository/OrtegaUMiniChallenge1/obj/Debug/net6.0/1 - What's Your Name.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arelymartinez/Desktop/GitRepository/OrtegaUMiniChallenge1/obj/Debug/net6.0/1 - What's Your Name.AssemblyInfoInputs.cache
+/Users/arelymartinez/Desktop/GitRepository/OrtegaUMiniChallenge1/obj/Debug/net6.0/1 - What's Your Name.AssemblyInfo.cs
+/Users/arelymartinez/Desktop/GitRepository/OrtegaUMiniChallenge1/obj/Debug/net6.0/1 - What's Your Name.csproj.CoreCompileInputs.cache
+/Users/arelymartinez/Desktop/GitRepository/OrtegaUMiniChallenge1/obj/Debug/net6.0/1 - What's Your Name.dll
+/Users/arelymartinez/Desktop/GitRepository/OrtegaUMiniChallenge1/obj/Debug/net6.0/refint/1 - What's Your Name.dll
+/Users/arelymartinez/Desktop/GitRepository/OrtegaUMiniChallenge1/obj/Debug/net6.0/1 - What's Your Name.pdb
+/Users/arelymartinez/Desktop/GitRepository/OrtegaUMiniChallenge1/obj/Debug/net6.0/1 - What's Your Name.genruntimeconfig.cache
+/Users/arelymartinez/Desktop/GitRepository/OrtegaUMiniChallenge1/obj/Debug/net6.0/ref/1 - What's Your Name.dll
